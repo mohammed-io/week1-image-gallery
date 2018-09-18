@@ -12,10 +12,14 @@ The planning and running of the project should be done with Trello (One Sprint p
 
 - Should be planned on Trello.
 
+- The website should be responsive and mobile-first.
+
 - Make sure that the images you include are not copywrited and published under proper license.
 
-- Should have a Slideshow with the following info for each photo: Title, Date, Description and Category of the photo, like the example below.
+- Should have a page with Slideshow with the following info for each photo: Title, Date, Description and Category of the photo, like the example below.
 
 ![Lake slide](https://raw.githubusercontent.com/mohammed-io/week1-image-gallery/master/lake.png)
 
 - The Slideshow should be animated with CSS (not jQuery).
+
+- The main page should have list of all photos, also should be categories, when click any category, only the related photos will be shown on main page.
