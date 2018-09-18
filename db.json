@@ -1,0 +1,18 @@
+{
+    "photos": [
+        {
+            "id": 1,
+            "title": "Lake",
+            "url": "https://freephotos.cc/storage/path/FxuaCc2RCncq5p7TPMYl4v2Vz0PxNBinqgj6pCdW.jpeg",
+            "categoryId": 1,
+            "description": "A photo of a beautiful lake captured in spring 2016, in Thailand.",
+            "date": "20-04-2016"
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Nature"
+        }
+    ]
+}
