@@ -16,4 +16,6 @@ The planning and running of the project should be done with Trello (One Sprint p
 
 - Should have a Slideshow with the following info for each photo: Title, Date, Description and Category of the photo, like the example below.
 
+![Lake slide](https://raw.githubusercontent.com/mohammed-io/week1-image-gallery/master/lake.png)
+
 - The Slideshow should be animated with CSS (not jQuery).
