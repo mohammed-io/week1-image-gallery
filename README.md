@@ -23,3 +23,5 @@ The planning and running of the project should be done with Trello (One Sprint p
 - The Slideshow should be animated with CSS (not jQuery).
 
 - The main page should have list of all photos, also should be categories, when click any category, only the related photos will be shown on main page.
+
+- You may use `json-server` as the database and RESTful API for your website.
